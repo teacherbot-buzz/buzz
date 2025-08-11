@@ -9,8 +9,8 @@ bin-release/
 
 # Node.js
 node_modules/
-package.json
-package-lock.json
+# package.json
+# package-lock.json
 
 # Executables
 *.swf
